@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any of my interesting topics plus C++.
 - 📫 How to reach me at my email, which is gpasauls@gmail.com.
 -     My home is in the state of Georgia of the United States of America.
--     You can see my programming own website of gist.gethub.com/dji-tello.
+-     You can see my programming own website of https://gist.gethub.com/dji-tello.
 
 <!---
 dji-tello/dji-tello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
